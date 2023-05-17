@@ -9,11 +9,12 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
 }
 
 .logo > h3{
-  margin-top: 20px;
+  margin-top: 30px;
+  background-color: #37115d;
 }
 
 .questions{
@@ -25,9 +26,11 @@
   background-color: #644ED2;
   width: 100%;
   height: 200px;
-  font-size: 20px;
+  font-size: 40px;
   font-family: 'Segoe UI';
-  margin-bottom: 20px;
+  margin-bottom: 40px;
+  text-align: center;
+  padding: 20px 40px;
 }
 
 .options{
@@ -42,7 +45,7 @@
   background-color: transparent;
   border-radius: 8px;
   border: 1px solid #18ab29;
-  width: 50%;
+  width: 30%;
   display: inline-block;
   cursor: pointer;
   color: #ffffff;
@@ -50,11 +53,14 @@
   font-size: 17px;
   padding: 16px 31px;
   text-decoration: none;
-  text-shadow: 0px 1px 0px #2f6627;
+  margin-right: 20px;
+  margin-bottom: 20px;
 }
 
 .button-option:hover{
   background-color: #5cbf2a;
+  opacity: 0.9;
+  transition-delay: 100ms;
 }
 
 .button-option:active{
