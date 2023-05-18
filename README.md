@@ -1,8 +1,18 @@
 # Clone BuzzFeed
+<br>
+ Último desafio do BootCamp da DIO - Potência Tech Angular Developer - Powered by iFood 🏆
+ <br>
+ Clone do site BuzzFeed (site de quiz).
 
-## About Angular  \/
+<br><br>
+## About Angular ⤵️
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+
+### Run 
+After cloned this repository, run in folder:
+
+    npm install
 
 ### Development server
 
